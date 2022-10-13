@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LanceGuy5
+- 👀 I’m interested in artificial intelligence and machine learning.
+- 🌱 I’m currently learning generative machine learning models with python.
+- 💞️ I’m looking to collaborate on anything; I like exploring new projects!
+- 📫 My Emaiil is lanceforresth@gmail.com
