@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is LanceGuy5!</h1>
 
 <h2>About Me</h2>
-<p>I started coding at a young age, and have continued ever since. I code primarily in python and C++, but I started in Java and am have a lot of experience in it. I have been facinated by a variety of different topics, specifically pathfinding, Artificial Intelligence (specifically neural networking), and robotics. I am on my highschool's robotics team as the software lead, and I also spend my time working with the Children's Hospital of Philadelphia's Bioinformatics Team!</p>
+<p>I started coding at a young age, and have continued ever since. I code primarily in Python and C++, but I started in Java and have a lot of experience using it. I have been facinated by a variety of different topics, specifically pathfinding, Artificial Intelligence (primarily neural networking), and robotics. I am the software lead on my highschool's robotics team, and I also spend my time working with the Children's Hospital of Philadelphia's Bioinformatics Team! Feel free to reach out about any collaborations, and I am happy to work on projects with anyone!</p>
 
 <h2>Languages</h2>
 <p float="left">
