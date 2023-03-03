@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @LanceGuy5
-- 👀 I’m interested in artificial intelligence and machine learning.
-- 🌱 I’m currently learning generative machine learning models with python.
-- 💞️ I’m looking to collaborate on anything; I like exploring new projects!
-- 📫 My Email is lanceforresth@gmail.com
+<h2>Hello! My name is LanceGuy5!</h2>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LanceGuy5&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
