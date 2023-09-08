@@ -1,4 +1,4 @@
-<h1 align="center">Hello! My name is LanceGuy5!</h1>
+<h1 align="center">Hello! My name is Lance Hartman!</h1>
 
 <h2>About Me</h2>
 <p>I started coding at a young age, and have continued ever since. I code primarily in Python and C++, but I started in Java and have a lot of experience using it. I have been facinated by a variety of different topics, specifically pathfinding, Artificial Intelligence (primarily neural networking), and robotics. I am the software lead on my highschool's robotics team, and I also spend my time working with the Children's Hospital of Philadelphia's Bioinformatics Team! Feel free to reach out about any collaborations, and I am happy to work on projects with anyone!</p>
