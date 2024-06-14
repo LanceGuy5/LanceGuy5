@@ -28,5 +28,4 @@
 <h2>Statistics</h2>
 <p float="center">
   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=LanceGuy5&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="210em" src="https://github-readme-activity-graph.cyclic.app/graph?username=LanceGuy5&theme=tokyo-night" />
 </p>
