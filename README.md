@@ -25,20 +25,6 @@
   <img height="30em" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-<h2>Contact</h2>
-<p float="left">
-  <img height="30em" align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <p>- lanceforresth@gmail.com</p>
-</p>
-<p float="left">
-  <img height="30em" align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  <p>- zlhartma@hatboro-horsham.org</p>
-</p>
-<p float="left">
-  <img height="30em" align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  <p>- @lanceguy5</p>
-</p>
-
 <h2>Statistics</h2>
 <p float="center">
   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=LanceGuy5&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
