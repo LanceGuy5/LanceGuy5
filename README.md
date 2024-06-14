@@ -10,7 +10,7 @@
   <img height="30em" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
 
-<h2>Programs I Commonly Work With</h2>
+<h2>Softwares I Commonly Work With</h2>
 <p float="left">
   <img height="30em" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img height="30em" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
